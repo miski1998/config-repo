@@ -10,3 +10,9 @@ spring:
     password: postgres
     driver-class-name: org.postgresql.Driver
 
+# ============================================
+# USER SERVICE URL
+# ============================================
+user:
+  service:
+    url: http://localhost:8081
